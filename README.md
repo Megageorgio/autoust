@@ -1,5 +1,6 @@
 # Autoust
 ![Autoust](./assets/autoust.png)
+
 Make ust from wav and lab files
 
 ## Usage
