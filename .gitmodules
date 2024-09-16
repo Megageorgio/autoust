@@ -1,0 +1,3 @@
+[submodule "SOME"]
+	path = SOME
+	url = https://github.com/openvpi/SOME

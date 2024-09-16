@@ -1,0 +1,328 @@
+あ  a
+い  i
+う  u
+え  e
+お  o
+か  k a
+き  k i
+く  k u
+け  k e
+こ  k o
+が  g a
+ぎ  g i
+ぐ  g u
+げ  g e
+ご  g o
+さ  s a
+し  sh i
+す  s u
+せ  s e
+そ  s o
+ざ  z a
+じ  j i
+ず  z u
+ぜ  z e
+ぞ  z o
+た  t a
+ち  ch i
+つ  ts u
+て  t e
+と  t o
+だ  d a
+ぢ  j i
+で  d e
+ど  d o
+な  n a
+に  n i
+ぬ  n u
+ね  n e
+の  n o
+は  h a
+ひ  h i
+ふ  f u
+へ  h e
+ほ  h o
+ば  b a
+び  b i
+ぶ  b u
+べ  b e
+ぼ  b o
+ぱ  p a
+ぴ  p i
+ぷ  p u
+ぺ  p e
+ぽ  p o
+ま  m a
+み  m i
+む  m u
+め  m e
+も  m o
+や  y a
+ゆ  y u
+よ  y o
+ら  r a
+り  r i
+る  r u
+れ  r e
+ろ  r o
+わ  w a
+ん  N
+きゃ  ky a
+きゅ  ky u
+きょ  ky o
+ぎゃ  gy a
+ぎゅ  gy u
+ぎょ  gy o
+しゃ  sh a
+しゅ  sh u
+しょ  sh o
+じゃ  j a
+じゅ  j u
+じょ  j o
+ちゃ  ch a
+ちゅ  ch u
+ちょ  ch o
+ぢゃ  j a
+ぢゅ  j u
+ぢょ  j o
+にゃ  ny a
+にゅ  ny u
+にょ  ny o
+ひゃ  hy a
+ひゅ  hy u
+ひょ  hy o
+びゃ  by a
+びゅ  by u
+びょ  by o
+ぴゃ  py a
+ぴゅ  py u
+ぴょ  py o
+みゃ  my a
+みゅ  my u
+みょ  my o
+りゃ  ry a
+りゅ  ry u
+りょ  ry o
+いぇ  y e
+きぇ  ky e
+ぎぇ  gy e
+しぇ  sh e
+じぇ  j e
+ちぇ  ch e
+ぢぇ  j e
+にぇ  ny e
+ひぇ  hy e
+びぇ  by e
+ぴぇ  py e
+みぇ  my e
+りぇ  ry e
+うぃ  w i
+うぇ  w e
+を  w o
+くぁ  kw a
+くぃ  kw i
+くぇ  kw e
+くぉ  kw o
+ぐぁ  gw a
+ぐぃ  gw i
+ぐぇ  gw e
+ぐぉ  gw o
+つぁ  ts a
+つぃ  ts i
+つぇ  ts e
+つぉ  ts o
+ふぁ  f a
+ふぃ  f i
+ふぇ  f e
+ふぉ  f o
+ヴ  v u
+ヴぁ  v a
+ヴぃ  v i
+ヴぇ  v e
+ヴぉ  v o
+ゔ  v u
+ゔぁ  v a
+ゔぃ  v i
+ゔぇ  v e
+ゔぉ  v o
+すぃ  s i
+ずぃ  z i
+てぃ  t i
+てゅ  ty u
+とぅ  t u
+でぃ  d i
+でゅ  dy u
+どぅ  d u
+か゜  ng a
+き゜  ng i
+く゜  ng u
+け゜  ng e
+こ゜  ng o
+き゜ぇ  ngy e
+き゜ゃ  ngy a
+き゜ゅ  ngy u
+き゜ょ  ngy o
+あ  a cl
+い  i cl
+う  u cl
+え  e cl
+お  o cl
+か  k a cl
+き  k i cl
+く  k u cl
+け  k e cl
+こ  k o cl
+が  g a cl
+ぎ  g i cl
+ぐ  g u cl
+げ  g e cl
+ご  g o cl
+さ  s a cl
+し  sh i cl
+す  s u cl
+せ  s e cl
+そ  s o cl
+ざ  z a cl
+じ  j i cl
+ず  z u cl
+ぜ  z e cl
+ぞ  z o cl
+た  t a cl
+ち  ch i cl
+つ  ts u cl
+て  t e cl
+と  t o cl
+だ  d a cl
+ぢ  j i cl
+で  d e cl
+ど  d o cl
+な  n a cl
+に  n i cl
+ぬ  n u cl
+ね  n e cl
+の  n o cl
+は  h a cl
+ひ  h i cl
+ふ  f u cl
+へ  h e cl
+ほ  h o cl
+ば  b a cl
+び  b i cl
+ぶ  b u cl
+べ  b e cl
+ぼ  b o cl
+ぱ  p a cl
+ぴ  p i cl
+ぷ  p u cl
+ぺ  p e cl
+ぽ  p o cl
+ま  m a cl
+み  m i cl
+む  m u cl
+め  m e cl
+も  m o cl
+や  y a cl
+ゆ  y u cl
+よ  y o cl
+ら  r a cl
+り  r i cl
+る  r u cl
+れ  r e cl
+ろ  r o cl
+わ  w a cl
+ん  N cl
+きゃ  ky a cl
+きゅ  ky u cl
+きょ  ky o cl
+ぎゃ  gy a cl
+ぎゅ  gy u cl
+ぎょ  gy o cl
+しゃ  sh a cl
+しゅ  sh u cl
+しょ  sh o cl
+じゃ  j a cl
+じゅ  j u cl
+じょ  j o cl
+ちゃ  ch a cl
+ちゅ  ch u cl
+ちょ  ch o cl
+ぢゃ  j a cl
+ぢゅ  j u cl
+ぢょ  j o cl
+にゃ  ny a cl
+にゅ  ny u cl
+にょ  ny o cl
+ひゃ  hy a cl
+ひゅ  hy u cl
+ひょ  hy o cl
+びゃ  by a cl
+びゅ  by u cl
+びょ  by o cl
+ぴゃ  py a cl
+ぴゅ  py u cl
+ぴょ  py o cl
+みゃ  my a cl
+みゅ  my u cl
+みょ  my o cl
+りゃ  ry a cl
+りゅ  ry u cl
+りょ  ry o cl
+いぇ  y e cl
+きぇ  ky e cl
+ぎぇ  gy e cl
+しぇ  sh e cl
+じぇ  j e cl
+ちぇ  ch e cl
+ぢぇ  j e cl
+にぇ  ny e cl
+ひぇ  hy e cl
+びぇ  by e cl
+ぴぇ  py e cl
+みぇ  my e cl
+りぇ  ry e cl
+うぃ  w i cl
+うぇ  w e cl
+を  w o cl
+くぁ  kw a cl
+くぃ  kw i cl
+くぇ  kw e cl
+くぉ  kw o cl
+ぐぁ  gw a cl
+ぐぃ  gw i cl
+ぐぇ  gw e cl
+ぐぉ  gw o cl
+つぁ  ts a cl
+つぃ  ts i cl
+つぇ  ts e cl
+つぉ  ts o cl
+ふぁ  f a cl
+ふぃ  f i cl
+ふぇ  f e cl
+ふぉ  f o cl
+ヴ  v u cl
+ヴぁ  v a cl
+ヴぃ  v i cl
+ヴぇ  v e cl
+ヴぉ  v o cl
+ゔ  v u cl
+ゔぁ  v a cl
+ゔぃ  v i cl
+ゔぇ  v e cl
+ゔぉ  v o cl
+すぃ  s i cl
+ずぃ  z i cl
+てぃ  t i cl
+てゅ  ty u cl
+とぅ  t u cl
+でぃ  d i cl
+でゅ  dy u cl
+どぅ  d u cl
+か゜  ng a cl
+き゜  ng i cl
+く゜  ng u cl
+け゜  ng e cl
+こ゜  ng o cl
+き゜ぇ  ngy e cl
+き゜ゃ  ngy a cl
+き゜ゅ  ngy u cl
+き゜ょ  ngy o cl
